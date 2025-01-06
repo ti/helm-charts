@@ -9,7 +9,7 @@ server:
   enabled: true
   image:
     repository: temporalio/server
-    tag: v1.0.0
+    tag: v1.0.3
     pullPolicy: IfNotPresent
 
   kafka:
